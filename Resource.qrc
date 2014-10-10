@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/switch_button">
+        <file alias="bg">Res/switch_button/bg.png</file>
+        <file alias="fg_off">Res/switch_button/fg_off.png</file>
+        <file alias="fg_on">Res/switch_button/fg_on.png</file>
+    </qresource>
+</RCC>
